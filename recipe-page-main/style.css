@@ -134,7 +134,7 @@ table strong {
 }
 
 /* mobile view media query*/
-@media (max-width: 500px) {
+@media (max-width: 375px) {
   .container {
     margin: 0;
     padding: 0;
